@@ -1,0 +1,1862 @@
+@media (min-width:1200px) and (max-width:1540px) {
+  .newHomeHead {
+    background-position: unset;
+  }
+
+  .desktop_header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 16px;
+  }
+}
+
+@media (min-width:1200px) and (max-width:1309px) {
+  .newHomeHead {
+    background-position: unset;
+  }
+}
+
+@media (min-width:1200px) {
+  /* .container {
+    max-width: 1565px;
+  } */
+}
+
+@media (min-width:992px) {
+
+  .mobile_logo {
+    display: none;
+  }
+}
+
+@media (max-width:991px) {
+  .offer_name {
+    bottom: 26px;
+    max-width: 90px;
+    line-height: 24px;
+    left: 15px;
+    font-size: 20px;
+  }
+
+  .main_home .heroFirstSlider-item img {
+    height: 270px;
+  }
+
+  .block_flex {
+    display: block;
+    padding: 40px 0;
+  }
+
+  .step-cont img {
+    max-width: 60px;
+    max-height: 60px;
+    margin-right: 20px;
+  }
+
+  .signup_height.signup-apjero-bg {
+    padding: 0px 0 0 0;
+  }
+
+  .newHomeHead {
+
+    background-position: unset;
+  }
+
+  .mobileToggle_only .newMenuButton {
+    position: absolute;
+    top: 18px;
+    left: 0;
+  }
+
+  .newPlan_card {
+    margin: 0 0 20px;
+  }
+
+  body.header-innerHtml {
+    padding-top: 60px;
+  }
+
+  .mobile_logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 22px 10px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
+    background-color: #fff;
+  }
+
+  .mobile_logo img {
+    max-height: 35px;
+    width: auto;
+  }
+
+  .webMainHeader .newLogo {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+
+  .webMainHeader .newLocationDropdown .dropdown {
+    font-size: 0;
+  }
+
+}
+
+@media (min-width:768px) {
+
+  .spl_offer_mob,
+  .newHome_bgmobile {
+    display: none;
+  }
+
+  .spl_offer_text br {
+    display: none;
+  }
+
+  ul.plan-listing>li:hover,
+  ul.plan-listing>li:nth-child(2) {
+    transform: scale(1.03);
+    -moz-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    -o-transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+  }
+
+  ul.plan-listing>li:nth-child(2) {
+    z-index: 3;
+  }
+
+  ul.plan-listing>li:hover {
+    z-index: 4;
+  }
+
+  ul.plan-listing>li:hover .pricing_block,
+  ul.plan-listing>li:nth-child(2) .pricing_block {
+    box-shadow: 0 13px 28px rgba(0, 0, 0, 0.2);
+  }
+
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width:992px) and (max-width:1199.98px) {
+  .desktop_header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 12px;
+  }
+
+  .newRestaurantsCol_rest {
+    width: 50%;
+    flex: 0 0 50%;
+    padding: 0 8px;
+  }
+
+  .plans-ab-img {
+    display: none;
+  }
+
+  .newHomeHead {
+
+    background-position: unset;
+  }
+
+  .desktop_header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 11px;
+  }
+
+  .plans-block h3 {
+    font-size: 24px;
+  }
+
+  .add-banner img {
+    max-width: 500px;
+  }
+
+  .left-side-block .signup-left-text {
+    font-size: 38px;
+    font-weight: 500;
+    color: #ffe400;
+    line-height: 50px;
+    padding-bottom: 55px;
+  }
+
+  .plans-ab-img img {
+    max-width: 90px;
+  }
+
+  .signup-apjero .right-side-block .form-block {
+    padding: 39px;
+    width: 440px;
+  }
+}
+
+@media (min-width:768px) and (max-width:1199.98px) {
+  .heroFirstSlider.main_homeimg img {
+    border-radius: 30px;
+  }
+}
+
+@media (min-width:768px) and (max-width:991.98px) {
+  .newLocationDropdown .dropdown {
+    font-size: 0;
+  }
+
+  .newLogo img {
+    max-width: 170px;
+  }
+
+  .newLocationDropdown {
+    margin-top: 25px;
+  }
+
+  .play-icons {
+    margin-top: 10px;
+  }
+
+  .step-cont img {
+    max-width: 60px;
+    max-height: 60px;
+
+  }
+
+  .steps .step-cont h3 {
+    color: #2d4a61;
+    font-size: 17px;
+  }
+
+  .steps .bg-gray {
+    padding: 30px 40px;
+  }
+
+  .add-banner img {
+    max-width: 500px;
+  }
+
+  .plans-ab-img {
+    display: none;
+  }
+
+  .step-type-cont h3 {
+    font-size: 18px;
+  }
+
+  .left-side-block {
+    padding-right: unset;
+    text-align: center;
+  }
+
+  .signup-apjero-bg {
+    padding: 0;
+  }
+
+  .left-side-block .signup-left-text {
+    padding-bottom: 25px;
+    line-height: 50px;
+    padding-top: 0;
+    font-size: 36px;
+  }
+
+  .right-side-block {
+    margin-top: 25px;
+  }
+
+  .signup-apjero .right-side-block .form-block {
+    padding: 25px;
+    width: 100%;
+    max-width: 510px;
+    position: unset;
+    transform: unset;
+    margin-top: 17px;
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  /* .play-icons {
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+} */
+  .mobileSearch {
+    max-width: 360px;
+  }
+
+  .deals-box {
+    padding: 40px 19px 0 !important;
+  }
+
+  .deals-box h5 {
+    font-size: 18px !important;
+  }
+
+  .custom-checkbox input[type="checkbox"]+label {
+    font-size: 13px !important;
+  }
+
+  .newHeadsearchWrap {
+    max-width: 540px;
+    height: 50px;
+  }
+
+}
+
+@media (min-width:320px) and (max-width:767.98px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+@media (max-width:1199.98px) {}
+
+@media (max-width:991.98px) {
+  .newPageHeading h2 {
+    font-size: 29px;
+  }
+
+  .desktop_header {
+    display: none;
+  }
+
+  .webMainHeader .newLogo {
+    display: none;
+  }
+
+  .newMenuButton {
+    display: block;
+  }
+
+  .newresult_BigSlider .newRestaurantsCol {
+    width: 100%;
+    flex: 0 0 100%;
+  }
+
+  .addnow_btn {
+    margin-top: 10px;
+  }
+
+  .subheading {
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+
+  .newHeaderSection {
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-bottom: 0;
+  }
+
+  .newMenuButton {
+    order: 2;
+    z-index: 1;
+  }
+
+  .newLogo {
+    position: relative;
+    top: unset;
+    transform: unset;
+    padding-top: 0;
+    left: unset;
+    order: 1;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+  }
+
+  .newLocationDropdown {
+    order: 3;
+  }
+
+  .newHeadsearchWrap {
+    position: relative;
+    top: unset;
+    transform: unset;
+    left: unset;
+    width: 100%;
+  }
+
+  .newHomeHead {
+    height: 270px;
+  }
+
+  .newRestaurantsCol {
+    width: 50%;
+    flex: 0 0 50%;
+    padding: 0 8px;
+  }
+
+  .newRestaurantsCol_rest {
+    width: 50%;
+    flex: 0 0 50%;
+    padding: 0 8px;
+  }
+
+  .newCategoryTabs ul {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+  }
+
+  .newCategoryTabs ul li a {
+    white-space: nowrap;
+  }
+
+  .innerSliderContent {
+    padding-left: 20px;
+  }
+
+  span.OfferText {
+    font-size: 17px;
+  }
+
+  span.offerSubText {
+    font-size: 25px;
+  }
+
+  .footerOffersRow {
+    padding-right: 25px;
+    padding-left: 40px;
+  }
+
+  .newFooterSubscribe {
+    font-size: 14px;
+  }
+
+  .newBigSlider {
+    margin-bottom: 10px;
+  }
+
+  .newSalon,
+  .newTopBars,
+  .newHotels,
+  .newRestaurants {
+    margin-bottom: 20px;
+  }
+
+  .newCategoryTabs {
+    margin-top: 30px;
+  }
+
+  .sliderTwo.newRestaurants .innerSliderImage {
+    height: 150px;
+  }
+
+  .sliderTwo .innerSliderWrapper {
+    width: 35%;
+    flex: 0 0 35%;
+  }
+
+}
+
+@media (max-width:767.98px) {
+  .main_home .heroFirstSlider-item img {
+    border-radius: 20px;
+  }
+
+  .desktop_homesection {
+    display: none;
+  }
+
+  .mobile_homesection {
+    display: block;
+  }
+
+  .heroFirstSlider-item,
+  .herobannerSlider-item {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: -6px 0px 25px 12px rgb(204, 204, 204, 41%);
+  }
+
+  .heroFirstSlider.main_homeimg img {
+    height: 220px;
+    border-radius: 15px;
+    object-fit: cover;
+  }
+
+  .plans-block.block2,
+  .plans-block.bg3,
+  .plans-block.block1 {
+    padding: 30px 30px 15px 30px;
+  }
+
+  .plans-block p span {
+    font-size: 16px;
+
+  }
+
+  .steps ul li .step-cont img {
+    max-width: 45px;
+    max-height: 45px;
+  }
+
+  .newTop_brand_card {
+    border-radius: 5px;
+  }
+
+  /* .plans-ab-img{ display: none;} */
+  #membrshipln2 .collapseCard .card-body {
+    padding: 15px;
+  }
+
+  .plans-block h3 {
+    font-size: 18px;
+  }
+
+  .newPlan_box_wrap .nwPlanbx .collapseCard {
+    margin-top: -40px;
+  }
+
+  .plans-block p {
+    font-size: 17px;
+  }
+
+  .nwPlanbx .nwPlan_details .pure-material-checkbox>span {
+    display: flex;
+  }
+
+  #membrshipln2 {
+    margin: 0 0 20px;
+  }
+
+  #membrshipln3 {
+    margin: 0 0 0;
+  }
+
+  .newLogo {
+    margin-bottom: 0;
+    padding-bottom: 2px;
+  }
+
+  .play-icons {
+    max-width: 100%;
+    margin: 0 0 0 auto;
+    z-index: 1;
+    position: relative;
+    margin-top: 20px;
+    padding-right: 0;
+    text-align: right;
+    right: 20px;
+  }
+
+
+  .newLocationDropdown {
+
+    margin-top: 15px;
+  }
+
+  .add-banner img {
+    max-width: 80%;
+  }
+
+  .plans-ab-img img {
+    max-width: 120px;
+  }
+
+  .signup-apjero .right-side-block .form-block .nav-tabs {
+    border-bottom: none;
+    justify-content: center;
+  }
+
+  .plans-ab-img {
+    position: absolute;
+    top: 27%;
+    transform: translateY(-50%);
+    right: 18px;
+    z-index: 1;
+  }
+
+  .step-type-cont h3 {
+    color: #374a5e;
+    line-height: 26px;
+    font-size: 19px;
+    padding-top: 0;
+    padding-bottom: 10px;
+  }
+
+  .steps .step-cont h3 {
+    color: #2d4a61;
+    font-size: 13px;
+    line-height: 26px;
+  }
+
+  .plans-bg {
+
+    margin-bottom: 20px;
+  }
+
+  .digit-group input {
+    width: 50px;
+    height: 50px;
+  }
+
+  .step-type-cont img {
+    max-width: 80px;
+    max-height: 80px;
+    margin-bottom: 8px;
+  }
+
+  .heading-block h4 {
+    font-size: 23px;
+  }
+
+  .signup-apjero .right-side-block .form-block {
+    padding: 25px;
+    width: 100%;
+    max-width: 480px;
+    position: unset;
+    transform: unset;
+    margin-top: 17px;
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  .signup-apjero .right-side-block .form-block.otp {
+    padding: 25px 0px !important;
+  }
+
+  .left-side-block .signup-left-text {
+    padding-bottom: 25px;
+    line-height: 50px;
+    padding-top: 0;
+    font-size: 36px;
+  }
+
+  .signup-apjero-bg {
+    padding: 0;
+  }
+
+  .left-side-block {
+    padding-right: unset;
+  }
+
+  .newHome_bgmobile {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 290px;
+    width: 100%;
+    z-index: 0;
+  }
+
+  .mobileToggle_only .newMenuToggler>span {
+    height: 3px;
+    width: 28px !important;
+    background-color: #fff;
+    margin: 3px 0;
+  }
+
+  .mobileToggle_only .newMenuToggler {
+    background-color: transparent;
+    box-shadow: unset;
+  }
+
+  .mobileSearch {
+    width: calc(100% - 70px);
+    /* max-width: 100%; */
+    height: 40px;
+  }
+
+  .mobileSearch input {
+    padding: 1px 10px 0;
+    font-size: 12px;
+    padding-right: 45px;
+  }
+
+  .mobileSearch button {
+    height: 35px;
+    width: 35px;
+  }
+
+  .newPlan_arrow {
+    bottom: 20px;
+  }
+
+  .nw-locationSelect {
+    min-width: 100px;
+    height: 26px;
+  }
+
+  .tradingSpots_box {
+    height: 150px;
+    border-radius: 30px;
+    margin: 0 0 15px;
+  }
+
+  .tradingSpots_wrap {
+    margin: 0 0 40px;
+  }
+
+  .tradingSpots_inner {
+    margin-top: 30px;
+  }
+
+  .nw-locationSelect select {
+    font-size: 13px;
+  }
+
+  .nwPrice_plan_wrap .newPlan_card {
+    padding: 25px;
+    border-radius: 20px;
+  }
+
+  .nwPrice_plan_wrap {
+    padding: 0 0 50px;
+  }
+
+  .nwPlan_payNow {
+    margin: 30px auto 2px;
+    max-width: 200px;
+    font-size: 15px;
+    padding: 13px 10px;
+  }
+
+  .nwPlan_details {
+    margin-top: 15px;
+  }
+
+  .nwPlan_details h4 {
+    font-size: 17px;
+    margin: 0 0 10px;
+  }
+
+  .pure-material-checkbox>span {
+    font-size: 13px;
+  }
+
+  .pure-material-checkbox>span::before {
+    margin: 1px 9px 3px 1px;
+    border: solid 1px;
+  }
+
+  .nwPrice_plan_wrap .newPlan_card_text {
+    padding-right: 50px;
+  }
+
+  .nwPrice_plan_wrap .newPlan_price {
+    font-size: 24px;
+  }
+
+  .nwPrice_plan_wrap .newPlan_card_text p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+
+  .nwPrice_plan_wrap .newPlan_type {
+    font-size: 13px;
+    min-width: 70px;
+    min-height: 22px;
+    padding: 2px 0 0;
+  }
+
+  .nwPrice_plan_wrap .newPla_fwall {
+    right: -10px;
+    top: -10px;
+    max-width: 90px;
+  }
+
+  .spl_offer_text h4 {
+    font-size: 13px;
+  }
+
+  .spl_offer_text span {
+    font-size: 13px;
+    line-height: 19px;
+  }
+
+  .testi_slider_wall {
+    flex: 0 0 110px;
+  }
+
+  .spl_offer {
+    border-radius: 25px;
+    margin: 25px 0 35px;
+  }
+
+  .spl_offer_bg {
+    background-image: url('../img/new/offer--bg1.png');
+    background-position: center;
+    /* padding: 20px 56px 20px 35px; */
+    background-size: cover;
+  }
+
+  .spl-offer-arrow {
+    right: 25px;
+    top: unset;
+    bottom: 20px;
+    transform: unset;
+    width: 26px;
+    height: 26px;
+    line-height: 27px;
+    font-size: 20px;
+  }
+
+  .testiSlider_inner {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+
+  .testiSlider_inner .owl-theme .owl-dots .owl-dot span {
+    margin: 5px 4px;
+  }
+
+  .testi_slider_wall figure {
+    width: 70px;
+    height: 70px;
+  }
+
+  .testi_slider_wrap .owl-carousel.owl-drag .owl-item {
+    padding: 25px 0 30px;
+  }
+
+  .testi_slider_content p {
+    font-size: 11px;
+    line-height: 19px;
+  }
+
+  .testi_slider_wrap .owl-theme .owl-nav.disabled+.owl-dots {
+    bottom: 41px;
+  }
+
+  .testi_slider_content {
+    padding-left: 10px;
+  }
+
+  .testi_slider_wall h4 {
+    font-size: 13px;
+    margin: 10px 0 0;
+  }
+
+  .testi_slider_wall .owl-carousel .owl-item img {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  /* .newTop_brand_slider .innerSliderImage {
+    height: 110px;
+  } */
+
+  .nwview_brands {
+    padding: 13px 35px;
+    font-size: 15px;
+    width: 100%;
+    /* margin: 5px auto 0; */
+    text-align: center;
+  }
+
+  .testi_slider_card {
+    padding: 20px 20px 25px;
+    border-radius: 20px;
+  }
+
+  .newTop_brand_rate {
+    right: 10px;
+    top: 9px;
+    font-size: 11px;
+    padding: 4px 9px 3px;
+  }
+
+  .newTop_brand_tag {
+    font-size: 11px;
+    padding: 3px 7px 2px;
+  }
+
+  .newTop_brand_row [class*='col-'] {
+    padding-right: 7px;
+    padding-left: 7px;
+  }
+
+  .newTop_brand_row {
+    margin-right: -7px;
+    margin-left: -7px;
+  }
+
+  .newTop_brand_card {
+    position: relative;
+  }
+
+  .newPlan_card {
+    margin: 0 0 20px;
+  }
+
+  .newTop_brand_content h6 {
+    letter-spacing: normal;
+    font-size: 12px;
+  }
+
+  .newTop_brand_content h4 {
+    font-size: 14px;
+    padding-right: 45px;
+  }
+
+  .newTop_brand_content span {
+    letter-spacing: 0.5px;
+    font-size: 10px;
+    margin: 0 0 5px 2px;
+  }
+
+  .newTop_brand_content {
+    border-radius: 0 0 15px 15px;
+    padding: 10px 15px 13px;
+  }
+
+  /* .innerSliderImage {
+    height: 110px;
+  } */
+
+  .newTop_brand_wrap .newPageHeading {
+    margin: 0 0 25px;
+  }
+
+  .testi_slider_wrap {
+    margin: 0 0 30px;
+  }
+
+  .newTop_brand_wrap {
+    background-color: #040e16;
+    margin: 0 0 30px;
+    padding: 30px 0;
+  }
+
+  .newPlan_pcard {
+    margin: 0;
+  }
+
+  .newPlan_box_wrap {
+    padding: 25px 0 0;
+  }
+
+  .newPla_fwall {
+    right: 30px;
+    top: 20px;
+    max-width: auto;
+  }
+
+
+
+  .newPlan_card_text p {
+    font-size: 11px;
+    line-height: 15px;
+  }
+
+  .newPlan_price {
+    font-size: 22px;
+  }
+
+  .newPlan_card button.btn-link {
+    padding: 25px;
+  }
+
+  .webMainHeader .newLogo img {
+    max-width: 100px;
+  }
+
+  .webMainHeader {
+    height: 60px;
+  }
+
+  .btn_red {
+    padding: 7px 15px;
+    font-size: 13px;
+    min-width: 151px;
+  }
+
+  .sticky-wrapper.issticky .service_slider .service_item {
+    height: 50px;
+    width: 50px;
+  }
+
+  .owl-carousel .owl-item .service_item img {
+    width: 40px;
+  }
+
+  .sticky-wrapper.issticky .service_slider .owl-carousel .owl-item .service_item img {
+    width: 20px;
+  }
+
+  .exclusive_section .owl-stage {
+    padding: 0px 0 17px;
+  }
+
+  .heading {
+    font-size: 22px;
+    margin: 0 0 15px;
+  }
+
+  .page_banner {
+    margin-top: -20px;
+  }
+
+  .page_banner .heading1 {
+    font-size: 25px;
+  }
+
+  .page_banner {
+    padding: 15px 0;
+  }
+
+  .cms_section {
+    padding: 35px 0 30px;
+  }
+
+  .tnc_link,
+  .tnc_link:hover {
+    margin-top: 0;
+  }
+
+  .for_desktop {
+    display: none
+  }
+
+  .for_mobile {
+    display: block;
+  }
+
+  .back_top {
+    height: 30px;
+    width: 30px;
+    bottom: 20px;
+    right: 15px;
+    font-size: 24px;
+  }
+
+  .newWebMenu ul li a,
+  .new-close-trigger {
+    font-size: 15px;
+  }
+
+  .new-close-trigger {
+    width: 32px;
+    height: 32px;
+  }
+
+}
+
+@media (min-width:576px) and (max-width:767.98px) {
+  .plans-ab-img {
+    position: absolute;
+    top: 27%;
+    transform: translateY(-50%);
+    right: 48px;
+    z-index: 1;
+  }
+
+  .step-cont {
+
+    margin-bottom: 10px;
+  }
+
+  .sub-button {
+    position: fixed;
+    margin: 0 auto;
+    width: 90%;
+    bottom: 20px;
+    right: 0;
+    z-index: 999;
+    left: 0;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .heroFirstSlider.main_homeimg img {
+    height: 180px;
+  }
+
+  .main_home .heroFirstSlider-item img {
+    height: 130px;
+  }
+
+  .offer_name {
+    bottom: 26px;
+    line-height: 24px;
+    font-size: 18px;
+    left: 10px
+  }
+
+  .steps .step-cont h3 {
+    color: #2d4a61;
+    font-size: 11px;
+    line-height: 20px;
+  }
+
+  .plans-ab-img img {
+    max-width: 90px;
+  }
+
+  .step-cont {
+
+    margin-bottom: 8px;
+  }
+
+  .step-cont img {
+    max-width: 40px;
+    max-height: 40px;
+  }
+
+  .newletter-sub-btn {
+    border-radius: 10px;
+    padding: 10px 12px;
+    right: 9px;
+    font-size: 11px;
+  }
+
+  .herobannerSlider a {
+    height: 90px;
+    display: block;
+  }
+
+  .herobannerSlider a img {
+    height: 100%;
+  }
+
+  .products_block .text_block span {
+
+    font-size: 14px;
+  }
+
+  .pro_heading,
+  .pro_heading h5 {
+    font-size: 16px;
+  }
+
+  /* .plans-ab-img{ display: none;} */
+  .apply-code-bg {
+    max-width: 100%;
+  }
+
+  /* .sub-button {
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+} */
+
+  .sub-button {
+    position: fixed;
+    margin: 0 auto;
+    width: 90%;
+    bottom: 20px;
+    right: 0;
+    z-index: 999;
+    left: 0;
+  }
+
+  .plans-block p span {
+    font-size: 14px;
+    max-width: 250px;
+  }
+
+  .step-type-cont img {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .apply-code-bg {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+
+  .step-type .bg-gray {
+    padding: 20px 10px;
+  }
+
+  .step-type-cont h3 {
+    color: #374a5e;
+    line-height: 15px;
+    font-size: 12px;
+    padding-top: 0;
+    padding: 0px 4px 0px 4px;
+    margin: 0;
+  }
+
+  .apply-code-sec {
+    margin: 0px 0;
+  }
+
+  .otp-input {
+    width: 50px !important;
+    height: 51px !important;
+  }
+
+  .signup-apjero-bg {
+    border-radius: 30px;
+  }
+
+  .signup-apjero .right-side-block .form-block {
+
+    max-width: 100%;
+
+  }
+
+  .block_flex {
+    display: block;
+    padding: 40px 0 0 0;
+  }
+
+  .add-banner img {
+    max-width: 100%;
+  }
+
+  .step-cont img {
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .steps .bg-gray {
+    padding: 25px;
+  }
+
+  .plans-block.block2 {
+    padding: 40px 30px 30px 30px;
+  }
+
+  /* .plans-ab-img {
+    display: none;
+  } */
+
+  .signup-apjero {
+
+    padding-top: 120px;
+  }
+
+  .steps .heading-step {
+    font-size: 20px;
+  }
+
+  .signup-apjero-bg {
+    padding: 0;
+  }
+
+  .login-header .login_btn .loginnav_btn {
+    color: #fff;
+    font-size: 17px;
+  }
+
+  .login-header .extra_nav li {
+    padding: 0px 18px;
+  }
+
+  .log-in-logo img {
+    max-width: 100px;
+    width: 100px;
+  }
+
+  .btn-theme-outline a img {
+    margin-right: 8px;
+    max-width: 14px;
+  }
+
+  .btn-theme-outline a {
+    color: #374a5e;
+    font-size: 14px;
+  }
+
+  .signup-apjero .right-side-block .input-group-text {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .btn-theme-outline {
+    padding: 8px 2px;
+    font-size: 14px;
+  }
+
+  .play-icons-block .footerTitle {
+    font-size: 17px;
+  }
+
+  .play-icons a img {
+    max-width: 100px;
+  }
+
+  .play-icons-block a img {
+    max-width: 110px;
+  }
+
+  .left-side-block .signup-left-text {
+    padding-bottom: 24px;
+    line-height: 39px;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .sliderTwo.newRestaurants.newresult_BigSlider .innerSliderImage {
+    height: 155px;
+  }
+
+  .play-icons-block {
+    text-align: center;
+  }
+
+  .subtotal_apply_code,
+  .payble_amt {
+    max-width: 100%;
+  }
+
+  .tradingSpots_box {
+    height: 100px;
+    border-radius: 20px;
+    margin: 0 0 10px;
+  }
+
+  .tradingSpots_inner>.row>[class*='col-'] {
+    padding-right: 7px;
+    padding-left: 7px;
+  }
+
+  .modal-dialog.topsearch,
+  .topsearch .modal-content {
+    height: 100%;
+  }
+
+  .topcity-block>li {
+    margin-right: 0;
+    margin-bottom: 18px;
+    display: inline-block;
+    width: 50%;
+    padding: 0 7px;
+  }
+
+  ul.topcity-block {
+    text-align: left;
+  }
+
+  .selectcity-btn {
+    width: 110px;
+  }
+}
+
+
+@media (max-width: 1380px) and (min-width: 768px) {
+  ul.plan-listing li.popular_plan .pricing_block:before {
+    font-size: 14px;
+  }
+
+  ul.plan-listing>li>.pricing_block:after {
+    top: -60px !important;
+    left: -10px !important;
+  }
+}
+
+@media (max-width: 991.98px) and (min-width: 768px) {
+  ul.plan-listing li.popular_plan .pricing_block:before {
+    padding-bottom: 5px;
+    top: -32px;
+    left: -69px;
+  }
+
+  .plans-block h3 {
+    font-size: 23px;
+  }
+
+  .step-type-cont img {
+    max-width: 80px;
+    margin-bottom: 15px;
+    max-height: 80px;
+  }
+
+  ul.plan-listing li.popular_plan .pricing_block:before {
+    font-size: 11px;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .div_block {
+    right: 10px;
+  }
+
+  .div_block span {
+    width: 25px;
+    font-size: 25px;
+    height: 25px;
+  }
+
+  .nwPlanbx .plans-block ul {
+    display: none
+  }
+
+  .white_bg {
+    margin-bottom: 15px;
+  }
+
+  .sub-button .subscribe-sub-btn {
+
+    padding: 10px 24px;
+  }
+
+  .svg-arrow-icon {
+    background-color: #fff;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+  }
+
+  .steps ul li {
+    list-style: none;
+    line-height: 30px;
+    padding-bottom: 10px;
+  }
+
+  .plans-block p span {
+    font-size: 15px;
+    max-width: 250px;
+  }
+
+  .plan-select_btn .Selected {
+    text-align: center;
+    padding: 13px 30px;
+    color: #fff;
+    padding-right: 51px;
+    font-size: 14px;
+  }
+
+  .plan-select_btn .Selected {
+    text-align: center;
+    padding: 9px 44px 11px 20px;
+  }
+
+  .plan-select_btn .svg-arrow-icon {
+    width: 28px;
+    height: 28px;
+    line-height: 38px;
+
+  }
+
+  .svg-arrow-icon svg {
+    color: #333;
+    width: 16px;
+    height: 17px;
+  }
+
+  .newPlan_box_wrap .newPageHeadingTitle h3 {
+    display: none;
+  }
+
+  .nwview_brands {
+    margin-top: 0;
+  }
+
+  .sub-button .subscribe-sub-btn {
+    text-transform: uppercase;
+    font-size: 14px;
+  }
+
+  .silmer-products {
+
+    padding: 20px 30px 20px 30px;
+  }
+
+  .play-icons a img {
+    max-width: 110px;
+    filter: brightness(1.1);
+  }
+
+  .silmer-products h2 {
+    font-size: 24px;
+
+  }
+
+  .signup-apjero {
+    padding: 70px 0;
+    text-align: center;
+    padding-top: 140px;
+  }
+
+  .spl_offer_desktop {
+    display: none;
+  }
+
+  .right-side-block {
+    margin-top: 25px;
+  }
+
+  ul.plan-listing>li.popular_plan>.pricing_block:after {
+    opacity: 0.4;
+  }
+
+  .nwPrice_plan_inner {
+    margin: 50px auto 0;
+  }
+
+  .nw_loadMore_result {
+    font-size: 15px;
+    padding: 13px 20px 11px;
+    margin: 30px auto 20px;
+    min-width: 150px;
+  }
+
+
+  .newresult_BigSlider .innerSliderImage,
+  .newresult_BigSlider .newRestaurantsCol>a {
+    border-radius: 26px;
+  }
+
+  .newCategoryTabs ul {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: space-between;
+  }
+
+  .newCategoryTabs ul li a svg {
+    height: 10px;
+    max-width: 10px;
+    margin-right: 3px;
+  }
+
+  .newCategoryTabs ul li a img {
+    height: 10px;
+    max-width: 10px;
+    margin-right: 3px;
+  }
+
+  .newCategoryTabs ul li {
+    margin-right: 5px;
+  }
+
+  .newCategoryTabs ul li a {
+    white-space: nowrap;
+    padding: 11px 9px 9px;
+    font-size: 9px;
+    font-weight: 700;
+    color: #000;
+  }
+
+  .newCategoryTabs {
+    margin-top: 10px;
+    padding-top: 25px;
+  }
+
+  .newCategoryTabs {
+    height: 190px;
+  }
+
+  .sliderTwo .innerSliderContent .innerSliderTitle h3,
+  .innerSliderContent .innerSliderTitle,
+  .innerSliderContent .innerSliderTitle h3,
+  .sliderTwo .innerSliderContent .innerSliderTitle,
+  .sliderTwo.newRestaurants .innerSliderContent .innerSliderTitle,
+  .sliderTwo.newRestaurants .innerSliderContent .innerSliderTitle h3 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .innerSliderContent .innerSliderTitle span,
+  .sliderTwo .innerSliderContent .innerSliderTitle span {
+    font-size: 13px;
+    line-height: 15px;
+  }
+
+  .innerSliderPrice,
+  .sliderTwo .innerSliderPrice,
+  .sliderTwo.newRestaurants .innerSliderContent .innerSliderTitle span,
+  .sliderTwo.newRestaurants .innerSliderPrice {
+    font-size: 12px;
+  }
+
+  .innerSliderDesc,
+  .sliderTwo .innerSliderDesc,
+  .sliderTwo.newRestaurants .innerSliderDesc {
+    font-size: 10px;
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+
+  .innerSliderContent,
+  .sliderTwo .innerSliderContent {
+    padding-left: 15px;
+    max-width: 55%;
+  }
+
+  .innerSliderButton {
+    margin-left: 0;
+    margin-top: 10px;
+    font-size: 10px;
+    padding: 3px 10px;
+  }
+
+  .innerSliderRow {
+    flex-wrap: wrap;
+    margin-top: 10px;
+    padding: 0;
+  }
+
+  .newBigSlider .owl-theme .owl-nav [class*="owl-"] {
+    height: 30px;
+    width: 30px;
+    font-size: 17px;
+  }
+
+  .newBigSlider .owl-theme .owl-nav .owl-next {
+    margin-right: -5px;
+  }
+
+  .newBigSlider .owl-theme .owl-nav .owl-prev {
+    margin-left: -5px;
+  }
+
+  .innerSliderContent .innerSliderTitle span:after {
+    width: 10px;
+    height: 9px;
+    right: 12px;
+    top: 8px;
+  }
+
+  .moreDeal_btn {
+    font-size: 11px;
+    margin: 4px 10px 0 auto;
+  }
+
+  .newBigSlider-item,
+  .newRestaurantsCol>a {
+    border-radius: 20px;
+    padding: 7px;
+  }
+
+  .newRestaurantsCol>a {
+    margin-bottom: 15px;
+  }
+
+  .innerSliderImage,
+  .sliderTwo .innerSliderImage,
+  .sliderTwo.newRestaurants .innerSliderImage {
+    height: 150px;
+  }
+
+  .innerSliderWrapper,
+  .sliderTwo .innerSliderWrapper,
+  .sliderTwo.newRestaurants .innerSliderWrapper {
+    width: 45%;
+    flex: 0 0 45%;
+    max-width: 45%;
+  }
+
+  .innerSlider-item,
+  .innerSliderImage {
+    border-radius: 13px;
+  }
+
+  .heroFirstSlider .owl-carousel .owl-stage-outer,
+  .herobannerSlider .owl-carousel .owl-stage-outer,
+  .newBigSlider .owl-carousel .owl-stage-outer {
+    padding: 20px 0px;
+    padding-bottom: 0;
+  }
+
+  .heroFirstSlider .owl-carousel,
+  .newBigSlider .owl-carousel {
+    padding-top: 0;
+  }
+
+  .heroFirstSlider .owl-carousel,
+  .herobannerSlider .owl-carousel,
+  .newBigSlider .owl-carousel {
+    padding: 0;
+  }
+
+  .heroFirstSlider .owl-carousel .owl-dots,
+  .herobannerSlider .owl-carousel .owl-dots,
+  .newBigSlider .owl-carousel .owl-dots {
+    margin-top: 0 !important;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0 20px;
+  }
+
+  .owl-theme .owl-dots .owl-dot span {
+    height: 8px !important;
+    width: 8px !important;
+  }
+
+  .newBigSlider {
+    margin-top: -120px;
+    margin-bottom: 0;
+  }
+
+  .newPageHeading h2 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 0;
+  }
+
+  .newPageHeading span,
+  .newPageHeadingAction a {
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  .newTopBrands,
+  .newRestaurants,
+  .newHotels,
+  .newTopBars,
+  .newSalon {
+    margin-top: 0;
+  }
+
+  .newRestaurantsCol {
+    width: 100%;
+    flex: 0 0 100%;
+  }
+
+  .newRestaurantsCol_rest {
+    width: 100%;
+    flex: 0 0 100%;
+  }
+
+  .footerLogoText {
+    max-width: 100%;
+    margin-bottom: 25px;
+  }
+
+  .footerOffersRow {
+    height: auto;
+    padding: 10px 0;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-size: 95%;
+    border-radius: 20px;
+    height: 100px;
+  }
+
+  .footerOffersRow.fixed {
+    bottom: 5px;
+    height: 100px;
+  }
+
+  .footerOffersCol {
+    margin: 0 0 15px !important;
+    width: 100%;
+  }
+
+  span.OfferText {
+    font-size: 15px;
+  }
+
+  span.offerSubText {
+    font-size: 18px;
+  }
+
+  .newFooterSubscribe {
+    font-size: 13px;
+  }
+
+  .footerlogo {
+    margin-bottom: 25px;
+  }
+
+  .footerLogoText p {
+    font-size: 11px;
+    line-height: 20px;
+  }
+
+  .footerlogo img {
+    max-width: 130px;
+  }
+
+  .newFooterInner .footerTitle {
+    margin-bottom: 15px;
+  }
+
+  .footerQuickLinks ul li {
+    margin-bottom: 4px;
+  }
+
+  .newFooterApps>a img {
+    width: auto;
+  }
+
+  .newFooterInner .footerTitle {
+    font-size: 14px;
+  }
+
+  .newFooterInner {
+    padding-top: 80px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+
+  .newCopyrights {
+    padding: 10px 0;
+    font-size: 10px;
+  }
+
+  .newRestaurantsWrapper {
+    padding: 20px 0 20px;
+  }
+
+  .newLogo img {
+    max-width: 110px;
+    height: auto;
+  }
+
+  .newMenuToggler {
+    height: 40px;
+    width: 40px;
+  }
+
+  .newLocationDropdown .dropdown {
+    font-size: 0;
+  }
+
+  .newLocationDropdown .dropdown .dropdown-toggle {
+    font-size: 13px;
+    min-width: 100px;
+  }
+
+  .newHeadsearchWrap {
+    max-width: calc(100% - 30px);
+    height: 38px;
+    margin-top: 20px;
+  }
+
+  .newHeadsearch input {
+    font-size: 13px;
+  }
+
+  .newHeadeSearchSubmit {
+    height: 35px;
+    width: 35px;
+    right: 6px;
+    font-size: 20px;
+  }
+
+  .newHomeHead {
+    height: 230px;
+  }
+
+  .heroFirstSlider,
+  .herobannerSlider,
+  .newBigSliderWrap {
+    overflow: hidden;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+
+}
+
+@media (max-width: 374.98px) {
+  .mobileSearch {
+    max-width: 240px;
+  }
+
+  .tab-login ul li {
+    min-width: 95px;
+    width: auto;
+    background-color: #f1f5fa;
+    padding: 7.5px 9px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480.98px) {
+  .step-type-cont h3 {
+    color: #374a5e;
+    line-height: 15px;
+    font-size: 12px;
+  }
+}

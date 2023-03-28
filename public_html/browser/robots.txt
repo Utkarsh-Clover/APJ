@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.apjpro.com/sitemap.xml

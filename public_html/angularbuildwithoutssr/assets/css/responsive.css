@@ -1,0 +1,209 @@
+@media (min-width:1200px) and (max-width:1440px) {}
+
+@media (min-width:1200px) and (max-width:1309px) {}
+
+@media (min-width:1200px) {
+    .container {
+        max-width: 1565px;
+    }
+}
+
+@media (min-width:992px) {
+    .mobile_logo {
+        display: none;
+    }
+}
+
+@media (max-width:991px) {
+
+    .mobile_logo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding: 22px 10px;
+        box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
+        background-color: #fff;
+    }
+
+    .mobile_logo img {
+        max-height: 35px;
+        width: auto;
+    }
+  
+}
+
+@media (min-width:768px) {
+       ul.plan-listing>li:hover,
+    ul.plan-listing>li:nth-child(2) {
+        transform: scale(1.03);
+        -moz-transform: scale(1.03);
+        -ms-transform: scale(1.03);
+        -o-transform: scale(1.03);
+        -webkit-transform: scale(1.03);
+    }
+    
+    ul.plan-listing>li:nth-child(2) {
+        z-index: 3;
+    }
+    ul.plan-listing>li:hover {
+        z-index: 4;
+    }
+
+    ul.plan-listing>li:hover .pricing_block,
+    ul.plan-listing>li:nth-child(2) .pricing_block {
+        box-shadow: 0 13px 28px rgba(0, 0, 0, 0.2);
+    }
+
+}
+
+@media (min-width:992px) and (max-width:1199.98px) {
+    
+}
+
+@media (min-width:768px) and (max-width:1199.98px) {
+    
+}
+
+@media (min-width:768px) and (max-width:991.98px) {
+.deals-box {
+    padding: 40px 19px 0 !important;
+}
+.deals-box h5 {
+    font-size: 18px !important;
+}    
+.custom-checkbox input[type="checkbox"] + label {
+    font-size: 13px !important;
+}
+
+}
+
+@media (max-width:1199.98px) {
+    
+}
+
+@media (max-width:991.98px) {
+    
+    .addnow_btn {
+        margin-top: 10px;
+    }
+
+    .subheading {
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    
+}
+
+@media (max-width:767.98px) {
+    .btn_red {
+        padding:7px 15px;
+        font-size: 13px;
+        min-width: 151px;
+    }
+    .sticky-wrapper.issticky .service_slider .service_item {
+        height: 50px;
+        width: 50px;
+      }
+
+      .owl-carousel .owl-item .service_item img {
+        width: 40px;
+    }
+      
+      .sticky-wrapper.issticky .service_slider .owl-carousel .owl-item .service_item img {
+        width: 20px;
+      }
+
+    .exclusive_section .owl-stage {
+        padding: 0px 0 17px;
+    }
+    .heading {
+        font-size: 22px;
+        margin: 0 0 15px;
+    }
+    .page_banner {
+        margin-top: -20px;
+    }
+
+    .page_banner .heading1 {
+        font-size: 25px;
+    }
+
+    .page_banner {
+        padding: 15px 0;
+    }
+
+    .cms_section {
+        padding: 35px 0 30px;
+    }
+
+    .tnc_link, .tnc_link:hover {
+        margin-top: 0;
+    }
+    .for_desktop {
+        display: none
+    }
+    .for_mobile {
+        display: block;
+    }
+    .back_top {
+        height: 30px;
+        width: 30px;
+        bottom: 20px;
+        right: 15px;
+        font-size: 24px;
+    }
+
+}
+
+@media (min-width:576px) and (max-width:767.98px) {
+    
+}
+
+
+@media (max-width: 575.98px) {
+.modal-dialog.topsearch, .topsearch .modal-content{
+    height: 100%;
+}
+.topcity-block>li{
+    margin-right: 0;
+    margin-bottom: 18px;
+    display: inline-block;
+    width: 50%;
+    padding: 0 7px;
+}
+ul.topcity-block{
+    text-align: left;
+}
+.selectcity-btn{
+    width: 110px;
+}
+}
+
+
+@media (max-width: 1380px) and (min-width: 768px) {
+    ul.plan-listing li.popular_plan .pricing_block:before {
+      font-size: 14px;
+    }
+    ul.plan-listing > li > .pricing_block:after {
+      top: -60px !important;
+      left: -10px !important;
+    }
+  }
+  
+  @media (max-width: 991.98px) and (min-width: 768px) {
+    ul.plan-listing li.popular_plan .pricing_block:before {
+      padding-bottom: 5px;
+      top: -32px;
+      left: -69px;
+    }
+    ul.plan-listing li.popular_plan .pricing_block:before {
+      font-size: 11px;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    ul.plan-listing>li.popular_plan>.pricing_block:after {
+      opacity: 0.4;
+    }
+  }
